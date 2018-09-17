@@ -39,7 +39,7 @@ func main() {
 
 # Contributing
 
-To hack on this project:
+To edit this project:
 
 1. Install as usual (`go get -u github.com/firstrow/tcp_server`)
 2. Create your feature branch (`git checkout -b my-new-feature`)
